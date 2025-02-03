@@ -1,12 +1,15 @@
 <h1 align="center">
  👋 Hey there, I'm Naveen Kumar!  
 </h1>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500" height="400" alt="Developer Animation">
 </p>
+
 <h3 align="center">
  🚀 Full Stack Developer | MERN Stack | WordPress & WooCommerce   
 </h3>
+
 Welcome to my GitHub! I am a **Full Stack Developer** specializing in the **MERN Stack**, **custom WordPress/WooCommerce development**, and **dynamic UI animations**. My passion lies in building scalable applications, optimizing performance, and delivering seamless user experiences.  
 
 ---
@@ -26,12 +29,33 @@ A **full-stack web application** for colleges to streamline communication betwee
 ✅ Attendance & Assignment Tracking | ✅ Notice Board & Notifications | ✅ Secure Student-Staff Messaging  
 
 ### 🔹 [🧭 Career Compass](https://github.com/Naveen-kumar-1/career-compass-frontend)  
-An **career guidance system** that helps students explore job opportunities and career paths.  
-✅ Resume Analysis & Career Suggestions | ✅ Internship & Job Listings |#
+An **AI-powered career guidance system** that helps students explore job opportunities and career paths.  
+✅ Resume Analysis & Career Suggestions | ✅ Internship & Job Listings | ✅ AI Chatbot for Career Guidance  
 
 ### 🔹 [💼 MERN Job Search Portal](https://github.com/your-repo)  
 A **job portal built with MERN Stack** for connecting recruiters and job seekers.  
 ✅ Job Posting & Resume Upload | ✅ Application Tracking System | ✅ Admin & Recruiter Dashboard  
+
+---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-kumar-1&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00A86B&text_color=FFFFFF&icon_color=FFD700" alt="GitHub Stats" />
+</p>
+
+
+
+
+---
+
+## 🏆 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-kumar-1&theme=github-dark&bg_color=ffffff&color=2E8B57&line=008080&point=000000" alt="GitHub Activity Graph" />
+</p>
+
+
+
 
 ---
 
@@ -46,4 +70,3 @@ A **job portal built with MERN Stack** for connecting recruiters and job seekers
 ---
 
 ⭐ **Coding with passion, Debugging with patience** 🚀  
-
