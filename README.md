@@ -2,7 +2,7 @@
  👋 Hey there, I'm Naveen Kumar!  
 </h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="600" height="500" alt="Developer Animation">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500" height="500" alt="Developer Animation">
 </p>
 <h3 align="center">
  🚀 Full Stack Developer | MERN Stack | WordPress & WooCommerce   
