@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/wrb5Kq50/81178b47a8598f0c81c4799f2cdd4057.gif" width="500" height="400" alt="Developer Animation">
+  <img src="https://i.ibb.co/b526GtN1/giphy.gif" width="500" height="400" alt="Developer Animation">
 </p>
 
 <h3 align="center">
