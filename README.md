@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/b526GtN1/giphy.gif" width="400" height="400" alt="Developer Animation">
+  <img src="https://i.ibb.co/fs9N9HR/360-F-224600069-W7lx-O3j-E7-CZ5s3izuh-Io-K5u-Sr-DUz9x6-W.jpg">
 </p>
 
 <h3 align="center">
@@ -17,7 +17,7 @@ Welcome to my GitHub! I am a **Full Stack Developer** specializing in the **MERN
 ## 🛠️ Tech Stack & Skills  
 
 <div align="center">
-  <img src="https://i.ibb.co/fs9N9HR/360-F-224600069-W7lx-O3j-E7-CZ5s3izuh-Io-K5u-Sr-DUz9x6-W.jpg" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,php,mysql,wordpress,woocommerce,js,html,css,tailwind,docker,git" />
 </div>
 
 ---
