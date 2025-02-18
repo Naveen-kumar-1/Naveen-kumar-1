@@ -63,7 +63,7 @@ A **job portal built with MERN Stack** for connecting recruiters and job seekers
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-kumar-5163a22b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" /></a>
+  <a href="https://naveen-kumar-1.github.io/portfolioOfNK/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" /></a>
   <a href="https://github.com/Naveen-kumar-1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
