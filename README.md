@@ -29,8 +29,8 @@ A **full-stack web application** for colleges to streamline communication betwee
 ✅ Attendance & Assignment Tracking | ✅ Notice Board & Notifications | ✅ Secure Student-Staff Messaging  
 
 ### 🔹 [🧭 Career Compass](https://github.com/Naveen-kumar-1/career-compass-frontend)  
-An **AI-powered career guidance system** that helps students explore job opportunities and career paths.  
-✅ Resume Analysis & Career Suggestions | ✅ Internship & Job Listings | ✅ AI Chatbot for Career Guidance  
+An **career guidance system** that helps students explore job opportunities and career paths.  
+✅  Career Suggestions | ✅ Listings All Colleges | ✅  Career Guidance  
 
 ### 🔹 [💼 MERN Job Search Portal](https://job-search-portal-client.vercel.app/)  
 A **job portal built with MERN Stack** for connecting recruiters and job seekers.  
