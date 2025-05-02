@@ -10,7 +10,7 @@
  🚀 Full Stack Developer | MERN Stack | WordPress & WooCommerce   
 </h3>
 
-Welcome to my GitHub! I am a **Full Stack Developer** specializing in the **MERN Stack**, **custom WordPress/WooCommerce development**, and **dynamic UI animations**. My passion lies in building scalable applications, optimizing performance, and delivering seamless user experiences.  
+Welcome to my GitHub! I am a **Full Stack Developer** specializing in the **MERN Stack**, **custom WordPress/WooCommerce development**, and **responsive UI experience**. My passion lies in building scalable applications, optimizing performance, and delivering seamless user experiences.  
 
 ---
 
