@@ -54,7 +54,7 @@ const naveen = {
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-kumar-1&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&border_color=30363D&langs_count=6&hide_border=false" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-kumar-1&theme=github_dark" width="100%" />
 
 </td>
 </tr>
