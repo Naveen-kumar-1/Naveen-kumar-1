@@ -25,17 +25,59 @@ Welcome to my GitHub! I am a **Full Stack Developer** specializing in the **MERN
 
 ## 🌟 My Latest Projects  
 
-### 🔹 [🎓 Student-Staff Integration](https://github.com/Naveen-kumar-1/Student-Staff-Integration)  
-A **full-stack web application** for colleges to streamline communication between students and staff.  
-✅ Attendance & Assignment Tracking | ✅ Notice Board & Notifications | ✅ Secure Student-Staff Messaging  
+### 🔹 [🎓 EduBridge](https://edu-bridge-admin-client.vercel.app/)  
+A **full-stack college management and communication platform** built to enhance collaboration between students, faculty, and administrators.  
 
-### 🔹 [🧭 Career Compass](https://github.com/Naveen-kumar-1/career-compass-frontend)  
-An **career guidance system** that helps students explore job opportunities and career paths.  
-✅  Career Suggestions | ✅ Listings All Colleges | ✅  Career Guidance  
+#### ✨ Features
+- ✅ Student & Staff Management  
+- ✅ Attendance & Assignment Tracking  
+- ✅ Notice Board & Real-Time Notifications  
+- ✅ Secure Student-Staff Communication  
+- ✅ Modern Admin Dashboard  
+- ✅ Responsive & User-Friendly Interface  
+
+#### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT Authentication  
+
+
+### 🔹 [🧭 Task Titan](https://task-titan-roan.vercel.app/)  
+A **full-stack organizational task management platform** designed to help companies manage employees, assign tasks, monitor progress, and improve team collaboration in real time.  
+
+#### ✨ Features
+- ✅ Organization Registration & Authentication  
+- ✅ Employee Profile Creation & Management  
+- ✅ Task Assignment & Progress Tracking  
+- ✅ Real-Time Status Updates  
+- ✅ Secure In-Organization Chat System  
+- ✅ Modern Admin Dashboard  
+- ✅ Responsive & User-Friendly Interface  
+
+#### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT Authentication & Role-Based Access  
 
 ### 🔹 [💼 MERN Job Search Portal](https://job-search-portal-client.vercel.app/)  
-A **job portal built with MERN Stack** for connecting recruiters and job seekers.  
-✅ Job Posting & Resume Upload | ✅ Application Tracking System | ✅ Admin & Recruiter Dashboard  
+A **full-stack recruitment and job management platform** built with the MERN Stack to seamlessly connect recruiters and job seekers through a modern and efficient hiring system.  
+
+#### ✨ Features
+- ✅ Job Posting & Vacancy Management  
+- ✅ Resume Upload & Candidate Profiles  
+- ✅ Job Application Tracking System  
+- ✅ Recruiter & Admin Dashboards  
+- ✅ Secure Authentication & Role Management  
+- ✅ Advanced Job Search & Filtering  
+- ✅ Responsive & User-Friendly Interface  
+
+#### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT Authentication  
 
 ---
 ## 📊 GitHub Stats  
