@@ -52,11 +52,7 @@ const naveen = {
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-kumar-1&theme=github_dark" width="100%" />
-
-</td>
 </tr>
 </table>
 
