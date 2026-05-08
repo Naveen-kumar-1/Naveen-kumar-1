@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D2E,100:00FF88&height=200&section=header&text=NAVEEN%20KUMAR&fontSize=60&fontColor=00FF88&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20WordPress%20%7C%20WooCommerce&descAlignY=60&descSize=16&descColor=A0FFD0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D2E,100:00FF88&height=200&section=header&text=NAVEEN%20KUMAR&fontSize=60&fontColor=00FF88&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%94%20Node.js%20%7C%20React%20%7C%20REST%20APIs%20%7C%20JavaScript&descAlignY=60&descSize=16&descColor=A0FFD0&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+full-stack+applications;Crafting+elegant+MERN+stack+solutions;Engineering+WordPress+%26+WooCommerce+ecosystems;Turning+coffee+into+production-grade+code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+MERN+Developer;Building+scalable+REST+APIs+with+Node.js+%26+Express;Crafting+responsive+UIs+with+React.js;Designing+robust+backend+architectures;Turning+ideas+into+production-grade+applications+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-00FF88?style=flat-square&labelColor=0D1117&color=00FF88" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-00BFFF?style=flat-square&labelColor=0D1117&color=00BFFF" />
+  <img src="https://img.shields.io/badge/FOCUS-MERN%20Stack%20%26%20REST%20APIs-00BFFF?style=flat-square&labelColor=0D1117&color=00BFFF" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Naveen-kumar-1&style=flat-square&color=00FF88&label=PROFILE+VIEWS&labelColor=0D1117" />
 </p>
@@ -29,15 +29,22 @@
 ```typescript
 const naveen = {
   name     : "Naveen Kumar Thangavel",
-  role     : "Full Stack Developer",
+  role     : "Full Stack MERN Developer",
   location : "India 🇮🇳",
-  stack    : ["MERN", "WordPress", "WooCommerce"],
-  passion  : "Building products that solve real problems",
+  stack    : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  passion  : "Engineering products that solve real-world problems",
+
+  expertise: {
+    backend   : "Node.js · Express.js · REST APIs · JWT Auth",
+    frontend  : "React.js · Tailwind CSS · Responsive UI",
+    database  : "MongoDB · Mongoose · Query Optimization",
+    patterns  : "MVC · RESTful Design · Role-Based Access"
+  },
 
   currently: {
     learning  : "System Design & Cloud Architecture",
-    building  : "Scalable web applications",
-    exploring : "DevOps & containerization"
+    building  : "Scalable full-stack web applications",
+    exploring : "DevOps, CI/CD & containerization"
   },
 
   philosophy: "Code is craft — precision matters."
@@ -66,29 +73,36 @@ const naveen = {
   &nbsp;ARSENAL
 </h2>
 
+<!-- MERN Core -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
+
+<!-- Languages & Styling -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FBBA00" />
+</p>
+
+<!-- Backend & API tooling -->
+<p align="center">
   <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FBBA00" />
+  <img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+<!-- DevOps & Tooling -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </p>
 
 <br/>
@@ -205,6 +219,69 @@ JWT Auth
 </table>
 
 <a href="https://job-search-portal-client.vercel.app/"><img src="https://img.shields.io/badge/View_Live_Demo-→-FFD700?style=for-the-badge&labelColor=0D1117" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════ BACKEND EDGE ═══ -->
+
+<h2 align="center">◈ &nbsp; BACKEND ENGINEERING FOCUS &nbsp; ◈</h2>
+
+<table align="center" width="92%">
+<tr>
+<td align="center" width="25%">
+
+```
+NODE.JS & EXPRESS
+─────────────────
+RESTful API Design
+Middleware Layers
+Route Architecture
+Error Handling
+Async/Await Patterns
+```
+
+</td>
+<td align="center" width="25%">
+
+```
+MONGODB
+─────────────────
+Schema Modeling
+Mongoose ORM
+Aggregation Pipelines
+Indexing & Performance
+CRUD Operations
+```
+
+</td>
+<td align="center" width="25%">
+
+```
+AUTHENTICATION
+─────────────────
+JWT Token System
+Role-Based Access
+Protected Routes
+Session Management
+Secure Hashing
+```
+
+</td>
+<td align="center" width="25%">
+
+```
+ARCHITECTURE
+─────────────────
+MVC Pattern
+API-First Design
+Modular Codebase
+Env Configuration
+Deployment Ready
+```
 
 </td>
 </tr>
